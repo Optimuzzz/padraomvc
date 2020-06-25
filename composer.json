@@ -1,0 +1,15 @@
+{
+	"name": "pnp/padraomvc",
+	"authors": [
+		{
+			"name": "Paulo Pontes",
+			"email": "paulo_crazy@hotmail.com"
+		}
+	],
+	"require": {},
+	"autoload" : {
+		"psr-4" :{
+			"app\\" : "app/"
+		}
+	}
+}
